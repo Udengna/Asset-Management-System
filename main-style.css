@@ -227,15 +227,15 @@ tr:nth-child(odd) {
   width: 70%;
 }
 ::placeholder { 
-  color: red;
+  color: rgb(153, 152, 152);
   opacity: 1; 
 }
 
 :-ms-input-placeholder { 
-  color: red;
+  color: rgb(153, 152, 152);
 }
 
 ::-ms-input-placeholder {
-  color: red;
+  color: rgb(153, 152, 152);
 }
 
